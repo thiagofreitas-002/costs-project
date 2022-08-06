@@ -1,0 +1,49 @@
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+.social_list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.social_list li {
+  margin-right: 16px;
+}
+
+.social_list li:nth-child(3) {
+  margin-right: 0;
+}
+
+.social_list .facebook:hover {
+  color: #3b5998;
+  transition: 250ms;
+}
+
+.social_list .instagram:hover {
+  color: #e1306c;
+  transition: 250ms;
+}
+
+.social_list .linkedin:hover {
+  color: #0077B5;
+  transition: 250ms;
+}
+
+.social_list svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.copy_right {
+  margin-top: .2em;
+}
+
+.copy_right span {
+  font-weight: bold;
+  color: #ffbb33;
+}
