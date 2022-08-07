@@ -1,8 +1,5 @@
 .project_container {
-  /* margin-inline: auto;
-  margin-block: 3em;
-  text-align: center; */
-  padding-block: 2em;
+  padding: 2em 0 2em 0;
 }
 
 .title_container {

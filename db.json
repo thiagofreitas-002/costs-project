@@ -1,55 +1,83 @@
 {
   "projects": [
     {
-      "name": "Teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Teste2",
-      "budget": "2132341",
+      "name": "Test1",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
-      "id": 2
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Test1",
+          "cost": "1000",
+          "description": "Test1",
+          "id": "9561412a-5dc1-428b-901b-7cd09691cfa5"
+        }
+      ],
+      "id": 1
     },
     {
-      "name": "Teste3",
-      "budget": "1231231",
+      "name": "Test2",
+      "budget": "10000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Test2",
+          "cost": "1000",
+          "description": "Test2",
+          "id": "d54d9977-4f6a-4dfc-abb5-287bff7e4b83"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Test3",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Test3",
+          "cost": "1000",
+          "description": "Test3",
+          "id": "6fc66d16-7e6a-4451-bea6-43d71db652a0"
+        }
+      ],
       "id": 3
     },
     {
-      "name": "Teste4 a",
-      "budget": "1500",
+      "name": "Test4",
+      "budget": "10000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Test4",
+          "cost": "1000",
+          "description": "Test4",
+          "id": "e6d59896-2ae1-4ad9-855d-6721a2988b5a"
+        }
+      ],
       "id": 4
     },
     {
-      "name": "Teste5",
-      "budget": "213",
+      "name": "Test5",
+      "budget": "10000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],
