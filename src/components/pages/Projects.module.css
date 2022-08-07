@@ -1,5 +1,14 @@
-.test {
-  margin-inline: auto;
-  margin-top: 3em;
+.project_container {
+  /* margin-inline: auto;
+  margin-block: 3em;
+  text-align: center; */
+  padding-block: 2em;
+}
+
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
   text-align: center;
+  /* line-height: 2em; */
 }

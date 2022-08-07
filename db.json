@@ -4,27 +4,27 @@
       "name": "Teste",
       "budget": "5000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "Meu projeto 1",
-      "budget": "1000000",
+      "name": "Teste2",
+      "budget": "2132341",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],
       "id": 2
     },
     {
-      "name": "Tese",
-      "budget": "12313254",
+      "name": "Teste3",
+      "budget": "1231231",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -34,70 +34,26 @@
       "id": 3
     },
     {
-      "name": "rgagafg",
-      "budget": "1234515",
+      "name": "Teste4 a",
+      "budget": "1500",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 4
     },
     {
-      "name": "ghnsrhaeth",
-      "budget": "143543512345",
+      "name": "Teste5",
+      "budget": "213",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 5
-    },
-    {
-      "name": "sdfgadfrgaerghae",
-      "budget": "45132141324",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "sdfgsdfgs",
-      "budget": "323242314",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "dfdfgdfg",
-      "budget": "1341342134",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "fdgdfgaret",
-      "budget": "1234124",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
     }
   ],
   "categories": [
